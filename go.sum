@@ -1,0 +1,6 @@
+github.com/adtalos/structs v1.2.1 h1:1vBYJVeIuC60I/KktELTj+l0IHAR+2fLVompG7qNHZk=
+github.com/adtalos/structs v1.2.1/go.mod h1:SxmHZ/Sf1LIpHYl5vkGks1gWphlMF/iNaB3aKVkFiu8=
+github.com/andot/structs v1.3.0 h1:BogRgeWIACfMSQvY66YACCrzy66AqvGHLquHvKsYUa4=
+github.com/andot/structs v1.3.0/go.mod h1:tqCdDCxhiH30uyPmd+1fl4ysBoVXtJi6NEEGpgQa+iU=
+github.com/modern-go/reflect2 v1.0.2 h1:xBagoLtFs94CBntxluKeaWgTMpvLxC4ur3nMaC9Gz0M=
+github.com/modern-go/reflect2 v1.0.2/go.mod h1:yWuevngMOJpCy52FWWMvUC8ws7m/LJsjYzDa0/r8luk=
